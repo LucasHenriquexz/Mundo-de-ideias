@@ -10,7 +10,7 @@ Mundo de ideias é um jogo desenvolvido na unity para a disciplina projeto integ
 
 # Imagens
 
-<img src="/PROJETO4/1.png" alt="img_1"/>
+
 <img src="/PROJETO4/2.jpeg" alt="img_2"/>
 <img src="/PROJETO4/WhatsApp Image 2021-08-16 at 22.34.16.jpeg" alt="img_8"/>
 
